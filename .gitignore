@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore node_modules (if you ever add npm packages)
+node_modules/
+
+# Ignore temporary files
+*.log
+*.tmp
