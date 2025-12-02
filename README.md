@@ -2,6 +2,8 @@
 
 A minimalist, high-performance portfolio website designed with an **Evangelion-inspired** aesthetic (Neon Genesis Evangelion). Built with pure HTML, CSS, and JavaScript, focusing on accessibility, responsiveness, and clean design.
 
+Live Demo : https://kayeprojects.github.io/personal-portfolio/
+
 ## 🌟 Features
 
 - **Evangelion Theme**: Dark mode with neon violet (`#9d00ff`) and green (`#39ff14`) accents.
